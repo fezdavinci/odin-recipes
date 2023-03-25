@@ -43,16 +43,38 @@ html {
 .alfredo {
     height: auto;
     width: 400px;
+    margin-left: 750px;
 }
 
 .main-header {
     color: red;
+    text-align: center;
 }
 
-div {
-    margin-left: 150px;
+h2 {
+    text-align: center;
+    color:black;
+    background-color:yellow;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
 }
 
-ul li ol {
-    list-style-position: inside;
+.intro{
+    text-align: center;
+}
+
+h3 {
+    color: white;
+    background-color: red;
+    font-size: 30px;
+}
+
+li {
+    color: yellow;
+    font-size: 20px;
+}
+
+h4 {
+    color:red;
 }
