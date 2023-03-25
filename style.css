@@ -1,3 +1,4 @@
+/* css for index*/
 .main {
     color: gold;
     background-color: red;
@@ -29,11 +30,29 @@
 }
 
 html {
-    background-color: black;
+    background-color:black;
     border-style: dotted;
     border-color: yellow;
+    color: white;
 }
 
 .gif {
     margin-left: 755px;
+}
+/* css for alfredo*/
+.alfredo {
+    height: auto;
+    width: 400px;
+}
+
+.main-header {
+    color: red;
+}
+
+div {
+    margin-left: 150px;
+}
+
+ul li ol {
+    list-style-position: inside;
 }
