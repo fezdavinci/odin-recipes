@@ -46,7 +46,7 @@ html {
     margin-left: 750px;
 }
 
-.main-header {
+h1 {
     color: red;
     text-align: center;
 }
@@ -78,3 +78,4 @@ li {
 h4 {
     color:red;
 }
+/* css for alfredo*/
