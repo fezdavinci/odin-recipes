@@ -6,6 +6,7 @@
     font-weight: 700;
     text-align: center;
     font-family: "Optima";
+    -webkit-text-stroke: 1px white;
 }
 
 .b1 {
@@ -102,6 +103,15 @@ html {
     font-size: 30px;
 }
 
+.img-txt-a,
+.img-txt-b,
+.img-txt-c {
+        color: black;
+        -webkit-text-stroke: 1px red;
+        font-weight: 900;
+        font-family: 'Times New Roman', Times, serif;
+}
+
 /* css for alfredo*/
 .alfredo {
     height: auto;
@@ -112,6 +122,7 @@ html {
 h1 {
     color: red;
     text-align: center;
+    -webkit-text-stroke: 1px white;
 }
 
 h2 {
@@ -121,6 +132,7 @@ h2 {
     font-weight: bold;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 50px;
+    -webkit-text-stroke: 1px red;
 }
 
 .intro{
@@ -131,6 +143,7 @@ h3 {
     color: white;
     background-color: red;
     font-size: 30px;
+    -webkit-text-stroke: 1px yellow;
 }
 
 li {
