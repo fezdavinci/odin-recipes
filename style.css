@@ -36,9 +36,72 @@ html {
     color: white;
 }
 
-.gif {
+.alf-pic {
     margin-left: 755px;
+    height: auto;
+    width: 400px;
+    display: block;
+    margin: auto;
+    padding: auto;
 }
+
+.img-txt-a {
+    position: absolute;
+    height: 30%;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    top: 0;
+    bottom: 275px;
+    right: 0;
+    left: 0;
+    font-size: 30px;
+}
+
+.pizza-pic {
+    margin-left: 255px;
+    height: auto;
+    width: 400px;
+    display: block;
+    margin: auto;
+    padding: auto;
+}
+
+.img-txt-b {
+    position: absolute;
+    height: 30%;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    top: 340px;
+    bottom: 0px;
+    right: 0;
+    left: 0;
+    font-size: 30px;
+}
+
+.smoothie-pic {
+    margin-left: 955px;
+    height: auto;
+    width: 400px;
+    display: block;
+    margin: auto;
+    padding: auto;
+}
+
+.img-txt-c {
+    position: absolute;
+    height: 30%;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    top: 1000px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    font-size: 30px;
+}
+
 /* css for alfredo*/
 .alfredo {
     height: auto;
